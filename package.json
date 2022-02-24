@@ -1,0 +1,33 @@
+{
+  "name": "mathtablegenerator",
+  "version": "1.0.0",
+  "description": "Create Multiplication Table Generator In Three Ways In JavaScript (\"for\" Loop, \"While\" Loop, \"Do-While\" Loop)🍦😋",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vanillma/Multiplication-Table-Generator.git"
+  },
+  "keywords": [
+    "Multiplication",
+    "Table",
+    "Generator",
+    "While",
+    "Do While",
+    "For",
+    "Loop"
+  ],
+  "author": "Vanillma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vanillma/Multiplication-Table-Generator/issues"
+  },
+  "homepage": "https://github.com/Vanillma/Multiplication-Table-Generator/#readme",
+  "devDependencies": {
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
