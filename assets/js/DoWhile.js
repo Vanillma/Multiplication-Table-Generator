@@ -1,7 +1,6 @@
 //Multiplication Table Generator
 //"Do-While" Type Loop
-console.log("Do-While-Loop:" + "\n"); //Print Title
-let doWhileTable = ""; //Main-Var
+export let doWhileTable = "Do-While-Loop:" + "\n"; //declaration & export Main-Var
 //Start External Loop
 let exLoopR = 1;
 do{
@@ -20,6 +19,4 @@ do{
   exLoopR++;
   //check condition first loop
 }while(exLoopR <= 10);
-doWhileTable += "Created With❤(2022/02/22_21:49)";;
-//Program End & Print Result
-console.log(doWhileTable);
+doWhileTable += "Created Project With❤(2022/02/22_21:49)";
